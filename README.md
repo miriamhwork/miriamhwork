@@ -2,8 +2,6 @@
 
 🌱 I'm currently learning more about front-end and back-end development.
 
-<br>
-[![My Skills](https://skillicons.dev/nodejs,react,py,js,tailwind,bootstrap,css,html,firebase,mongodb,mysql,git,vscode)](https://skillicons.dev)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miriamhwork&show_icons=true&theme=tokyonight">
